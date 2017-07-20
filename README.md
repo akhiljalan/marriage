@@ -1,2 +1,3 @@
-# marriage
-Exploration of marriage data
+# Marriage
+
+Playing around with some data on marriage and divorce rates, courtesy of FiveThirtyEight
